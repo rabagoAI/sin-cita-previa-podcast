@@ -1,0 +1,23 @@
+{
+    "sin-cita-previa-salud-en-la-mujer": {
+        "id": "sin-cita-previa",
+        "title": "Sin cita previa: Salud en la mujer",
+        "slug": "sin-cita-previa",
+        "description": "Podcast que pone el foco en el bienestar femenino desde una mirada completa: ginecología, salud emocional, alimentación y autocuidados.",
+        "author": "Adeslas",
+        "rssFeed": "https://www.ivoox.com/podcast-sin-cita-previa-salud-mujer_fg_f12745663_filtro_1.xml",
+        "coverImage": "/podcasts/sin-cita-previa-salud-en-la-mujer/portada.png",
+        "primaryColor": "#2b244e",
+        "secondaryColor": "#9c27b0",
+        "platforms": {
+            "spotify": "https://open.spotify.com/show/3PXQ8B4w97iQ5n2BcOsEDf",
+            "apple": "https://podcasts.apple.com",
+            "youtube": "https://youtube.com",
+            "ivoox": "https://www.ivoox.com/podcast-sin-cita-previa-salud-mujer_sq_f12745663_1.html"
+        },
+        "socialMedia": {
+            "instagram": "https://instagram.com",
+            "twitter": "https://twitter.com"
+        }
+    }
+}
